@@ -1,0 +1,11 @@
+#1 Set up requirements file for easy installation
+#2 Open terminal , command prompt :
+    >conda deactivate 
+    >conda create -p venv python==3.9
+    >conda activate "D:\study\Blog Generation\venv"
+    >pip install -r requirements.txt
+    >pip install langchain-community (#because of error : langchain-community not found)
+    >pip install transformers safetensors
+#3 Create app.py for the application building
+#4 download model in bin file (ggml compression mode)
+#4 streamlit run blog_app.py

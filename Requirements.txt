@@ -1,0 +1,7 @@
+sentence-transformers #The sentence-transformers library provides a simple way to compute dense vector representations for sentences, paragraphs, and images. It is built on top of Hugging Face's transformers library and provides pre-trained models that can be fine-tuned on specific tasks.
+uvicorn #uvicorn is a lightning-fast ASGI server implementation, using uvloop and httptools. It is designed to run high-performance asyncio-based web applications and supports HTTP/2, WebSockets, and HTTP/1.1. Used for implemetning : FastAPI Applications, Real-Time Applications, Microservices
+transformers
+ctransformers #ctransformers is a library for using the GPT (Generative Pre-trained Transformer) models in a compact and efficient manner. It provides tools and interfaces to integrate GPT models into applications seamlessly.
+langchain  #langchain is a framework for developing applications powered by language models. It provides tools and components to build, customize, and deploy models for a wide range of language processing tasks.
+python-box  #python-box is a library that turns dictionaries into objects. It allows for dot notation access to dictionary attributes and can be converted back to a dictionary if needed.
+streamlit   #streamlit is an open-source app framework for Machine Learning and Data Science teams to create beautiful, custom web apps for machine learning and data science projects with minimal effort.
